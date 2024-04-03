@@ -206,4 +206,4 @@ EAP 方法：PEAP
 
 以上。
 
-> 如有更新/错误，可在 [https://github.com/Life-USTC/LU_Web](https://github.com/Life-USTC/LU_Web) 上提 issue / PR。
+> 如有更新/错误，可在 [https://github.com/tiankaima/blog](https://github.com/tiankaima/blog) 上提 issue / PR。
