@@ -1,0 +1,4 @@
+baseURL = 'https://blog.tiankaima.dev'
+languageCode = 'en-us'
+title = 'Blog site of Tiankai Ma'
+theme = "papermod"
